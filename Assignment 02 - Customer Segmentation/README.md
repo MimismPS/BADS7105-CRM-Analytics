@@ -1,3 +1,3 @@
 # Customer Segmentation
 
-<a href="https://colab.research.google.com/drive/130Z3ysUainF4oqgZV4zkhseCNIDAkQ0f?usp=sharing" >
+<a href="https://github.com/MimismPS/BADS7105-CRM-Analytics/blob/main/Assignment%2002%20-%20Customer%20Segmentation/Customer%20Segmentation.ipynb" >
