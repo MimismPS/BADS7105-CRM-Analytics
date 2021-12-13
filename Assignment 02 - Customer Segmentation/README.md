@@ -1,7 +1,21 @@
 # Customer Segmentation
 
+<i><ins>Distortion Score Elbow for K-means Clustering</ins></i>
+</p>
+<img src="https://github.com/MimismPS/BADS7105-CRM-Analytics/blob/main/Assignment%2002%20-%20Customer%20Segmentation/K-mean%20Clustering.png" />
 
+<i><ins>Number of Customer of Each Clustering</ins></i>
+</p>
+<img src="https://github.com/MimismPS/BADS7105-CRM-Analytics/blob/main/Assignment%2002%20-%20Customer%20Segmentation/Customer%20each%20clustering.png" />
 
+<i><ins>Cluster PCA Plot</ins></i>
+</p>
+<img src="https://github.com/MimismPS/BADS7105-CRM-Analytics/blob/main/Assignment%2002%20-%20Customer%20Segmentation/PCA%20Plot.png" />
+
+<i><ins>Silhouette Plot of K-Means Clustering for 6100 Samples in 4 Centers</ins></i>
+</p>
+<img src="https://github.com/MimismPS/BADS7105-CRM-Analytics/blob/main/Assignment%2002%20-%20Customer%20Segmentation/Silhouette%20Plot.png" />
+<hr>
 <i><ins>Analysis feature for clustering</i></ins>
 
 <i>Cluster0 (Looker Customers)</i>:  Low total spend , lowest rencency and average time between visit 
