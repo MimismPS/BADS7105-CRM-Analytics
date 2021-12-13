@@ -1,14 +1,14 @@
 # Voice of Customer Analytics
 
-<i><ins>Clustering using KMeans<ins></i>
+<i><ins>Clustering using KMeans</ins></i>
 
 
 <img src="https://github.com/MimismPS/BADS7105-CRM-Analytics/blob/main/Assignment%2007%20-%20Voice%20of%20Customer/No.%20of%20cluster.png" />
-Four clusters you see fit the most
+Four clusters you see fit the most.
 
 
 <hr>
-<i>Define words to remove as well as new words for tokenization</i>
+<i><ins>Define words to remove as well as new words for tokenization</ins></i>
 </p>
 Removed words --> "u", "b", "n", "nn", "nn-", "\n", "ร้าน", "กก", "ดิชั้น", "ดังนั้น", "ตั้งอยู่", "ลอง", 
               "['", "ดิ", "tamp", "น", "ซอย", "ร้า", "ลอง", "ชั้น", "เจอ", "คน", "นั่ง",
@@ -20,7 +20,7 @@ Add new words --> "สตารบัก", "แบล๊กแคนยอน", 
               "ยำแซ่บ", "อีสาน", "คาปู", "อิตาเลี่ยนโซดา", "บาริสต้า", "ดาร์คช๊อก", "ชานมไข่มุก", "เมล็ดกาแฟ"
 
 <hr>
-<i>Result</i>
+<i><ins>Result</ins></i>
 </p> 
 Cluster 1: "Enjoy Eating"
 
