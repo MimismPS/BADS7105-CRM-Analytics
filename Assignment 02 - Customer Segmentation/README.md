@@ -1,5 +1,7 @@
 # Customer Segmentation
 
+**Google Colab:** [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/MimismPS/01cbcb075cbe36c3a56b28e549a69b3a/cutomer-segmentation.ipynb)
+
 <i><ins>Distortion Score Elbow for K-means Clustering</ins></i>
 </p>
 <img src="https://github.com/MimismPS/BADS7105-CRM-Analytics/blob/main/Assignment%2002%20-%20Customer%20Segmentation/K-mean%20Clustering.png" />
