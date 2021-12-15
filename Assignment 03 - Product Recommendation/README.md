@@ -31,7 +31,10 @@ whey protein
 กระบองเพชรพูดได้                          
 ROV Skin  
 <hr>
-<img src="" />
+<i><ins>Five Antecedents and Consequents</ins></i>
+<img src="https://github.com/MimismPS/BADS7105-CRM-Analytics/blob/main/Assignment%2003%20-%20Product%20Recommendation/Antecedents%20and%20Consequents.png" />
+<i><ins>Nework Graph</ins></i>
+<img src="https://github.com/MimismPS/BADS7105-CRM-Analytics/blob/main/Assignment%2003%20-%20Product%20Recommendation/Network%20Graph.png" />
 <hr>
 <i><ins>Product Recommendation</ins></i>
 
