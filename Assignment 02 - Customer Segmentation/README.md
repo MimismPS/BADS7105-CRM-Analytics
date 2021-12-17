@@ -1,26 +1,44 @@
 # Customer Segmentation
 
+[![](https://img.shields.io/badge/-Python-brightgreen)](#) [![](https://img.shields.io/badge/-Google--Colab-brightgreen)](#) [![](https://img.shields.io/badge/-K--Means-brightgreen)](#)
+
 **Google Colab:** [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/MimismPS/01cbcb075cbe36c3a56b28e549a69b3a/cutomer-segmentation.ipynb)
 
-<i><ins>Distortion Score Elbow for K-means Clustering</ins></i>
-</p>
-<img src="https://github.com/MimismPS/BADS7105-CRM-Analytics/blob/main/Assignment%2002%20-%20Customer%20Segmentation/K-mean%20Clustering.png" />
+## 1. Import Dataset
+"Supermarket Data"
+<hr>
 
-<i><ins>Number of Customer of Each Clustering</ins></i>
-</p>
-<img src="https://github.com/MimismPS/BADS7105-CRM-Analytics/blob/main/Assignment%2002%20-%20Customer%20Segmentation/Customer%20each%20clustering.png" />
+## 2. Prepare Customer Single View
+### Calculate features
+<img src="https://github.com/MimismPS/BADS7105-CRM-Analytics/blob/main/Assignment%2002%20-%20Customer%20Segmentation/Calculate%20Features.png" />
+<hr>
 
-<i><ins>Cluster PCA Plot</ins></i>
+## 3. Cluster Customers and Compare model performance
+</p>
+<img src="https://github.com/MimismPS/BADS7105-CRM-Analytics/blob/main/Assignment%2002%20-%20Customer%20Segmentation/Model%20Performance.png" />
+<hr>
+
+## 4. Spectral Clustering Clustering
+### Cluster PCA Plot
 </p>
 <img src="https://github.com/MimismPS/BADS7105-CRM-Analytics/blob/main/Assignment%2002%20-%20Customer%20Segmentation/PCA%20Plot.png" />
 
-<i><ins>Silhouette Plot of K-Means Clustering for 6100 Samples in 4 Centers</ins></i>
+### Distortion Score Elbow for K-means Clustering
+</p>
+<img src="https://github.com/MimismPS/BADS7105-CRM-Analytics/blob/main/Assignment%2002%20-%20Customer%20Segmentation/K-mean%20Clustering.png" />
+
+### Number of Customer of Each Clustering
+</p>
+<img src="https://github.com/MimismPS/BADS7105-CRM-Analytics/blob/main/Assignment%2002%20-%20Customer%20Segmentation/Customer%20each%20clustering.png" />
+
+### Silhouette Plot of K-Means Clustering for 6100 Samples in 4 Centers
 </p>
 <img src="https://github.com/MimismPS/BADS7105-CRM-Analytics/blob/main/Assignment%2002%20-%20Customer%20Segmentation/Silhouette%20Plot.png" />
 <hr>
-<i><ins>Analysis feature for clustering</i></ins>
 
-<i>Cluster0 (Looker Customers)</i>:  Low total spend , lowest rencency and average time between visit 
+## Analysis Feature for Clustering
+
+<i><ins>Cluster0 (Looker Customers)</ins></i>:  Low total spend , lowest rencency and average time between visit 
 
 Recommend :
 
@@ -28,21 +46,21 @@ Recommend :
 2. Churn prediction (Lead scoring)
 
 
-<i>Cluster1  (Researcher Customers)</i>:  Average total spend ,rencency and average time between visit 
+<i><ins>Cluster1  (Researcher Customers)</ins></i>:  Average total spend ,rencency and average time between visit 
 
 Recommend :
 
 1. Daily promotion special
 2. Discount special product, BOGO
 
-<i>Cluster2 (Honor Customers)</i>:  Highest total spend, highest rencency,  lowest average between visit
+<i><ins>Cluster2 (Honor Customers)</ins></i>:  Highest total spend, highest rencency,  lowest average between visit
 
 Recommend : 
 1. New products
 2. Promotion แนะนำเพื่อนให้มาซื้อจะได้รับส่วนลด
 
 
-<i>Cluster3 (Richer Customers)</i>:  High total spend, high rencency, low average between visit 
+<i><ins>Cluster3 (Richer Customers)</ins></i>:  High total spend, high rencency, low average between visit 
 
 Recommend :
 
