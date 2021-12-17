@@ -63,6 +63,10 @@ Data is imbalanced.
 
 <img src="https://github.com/MimismPS/BADS7105-CRM-Analytics/blob/main/Assignment%2004%20-%20Campaign%20Response%20Model/XGBoost%20model%20-%20SMOTE%20CLV.png" />
 
+AUC Score for training data = 0.687
+
+AUC Score for test data = 0.671
+
 <hr>
 
 ## 5. Hyper Parameter Tuning - Grid Search
@@ -78,4 +82,5 @@ By adding:
 <img src="https://github.com/MimismPS/BADS7105-CRM-Analytics/blob/main/Assignment%2004%20-%20Campaign%20Response%20Model/ROC%20Curve.png" />
 
 AUC Score for training data = 0.709
+
 AUC Score for test data = 0.704
