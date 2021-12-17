@@ -1,4 +1,5 @@
 # Customer Lifetime Value Dashboard
+[![](https://img.shields.io/badge/-Dashboard-blue)](#) [![](https://img.shields.io/badge/-Power--BI-blue)](#)
 
 ## Dataset
 "Supermarket Data"
