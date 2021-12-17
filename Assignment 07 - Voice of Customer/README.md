@@ -16,7 +16,7 @@ Four clusters you see fit the most.
 
 <hr>
 
-## Define Words to Remove as well as New Words for Tokenization
+## Define words to remove as well as new words for tokenization
 </p>
 Removed words --> "u", "b", "n", "nn", "nn-", "\n", "ร้าน", "กก", "ดิชั้น", "ดังนั้น", "ตั้งอยู่", "ลอง", 
               "['", "ดิ", "tamp", "น", "ซอย", "ร้า", "ลอง", "ชั้น", "เจอ", "คน", "นั่ง",
