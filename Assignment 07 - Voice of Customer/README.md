@@ -2,15 +2,18 @@
 
 **Google Colab:** [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qQgZAIfuGNZrRrmOiQIY9wOrpj0y0-5C)
 
-<i><ins>Clustering using KMeans</ins></i>
+## Dataset
+"Wongnai Reviews - Small"
 
+## Clustering using K-Means
 
 <img src="https://github.com/MimismPS/BADS7105-CRM-Analytics/blob/main/Assignment%2007%20-%20Voice%20of%20Customer/No.%20of%20cluster.png" />
 Four clusters you see fit the most.
 
 
 <hr>
-<i><ins>Define words to remove as well as new words for tokenization</ins></i>
+
+## Define Words to Remove as well as New Words for Tokenization
 </p>
 Removed words --> "u", "b", "n", "nn", "nn-", "\n", "ร้าน", "กก", "ดิชั้น", "ดังนั้น", "ตั้งอยู่", "ลอง", 
               "['", "ดิ", "tamp", "น", "ซอย", "ร้า", "ลอง", "ชั้น", "เจอ", "คน", "นั่ง",
@@ -22,7 +25,8 @@ Add new words --> "สตารบัก", "แบล๊กแคนยอน", 
               "ยำแซ่บ", "อีสาน", "คาปู", "อิตาเลี่ยนโซดา", "บาริสต้า", "ดาร์คช๊อก", "ชานมไข่มุก", "เมล็ดกาแฟ"
 
 <hr>
-<i><ins>Result</ins></i>
+
+## Result
 </p> 
 Cluster 1: "Enjoy Eating"
 
