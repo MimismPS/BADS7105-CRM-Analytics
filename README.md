@@ -2,7 +2,7 @@
 
 Pichamon Sudchuen 6220412002
 
-[![](https://img.shields.io/badge/-SQL-brightgreen)](#) [![](https://img.shields.io/badge/-BigQuery-brightgreen)](#) [![](https://img.shields.io/badge/-Google--Data--Studio-brightgreen)](#)
+[![](https://img.shields.io/badge/-Power--BI-brightgreen)](#) [![](https://img.shields.io/badge/-Python-brightgreen)](#) [![](https://img.shields.io/badge/-Google--Colab-brightgreen)](#) [![](https://img.shields.io/badge/-SQL-brightgreen)](#) [![](https://img.shields.io/badge/-BigQuery-brightgreen)](#) [![](https://img.shields.io/badge/-Google--Data--Studio-brightgreen)](#)  
 
 [Assignment 01 - CLV Dashboard](https://github.com/MimismPS/BADS7105-CRM-Analytics/tree/main/Assignment%2001%20-%20CLV%20Dashboard)
 
