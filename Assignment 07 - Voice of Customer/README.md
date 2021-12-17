@@ -1,5 +1,8 @@
 # Voice of Customer Analytics
 
+[![](https://img.shields.io/badge/-NLP-brightgreen)](#) [![](https://img.shields.io/badge/-K--Means-brightgreen)](#) [![](https://img.shields.io/badge/-Python-brightgreen)](#) [![](https://img.shields.io/badge/-Google--Colab-brightgreen)](#) 
+
+
 **Google Colab:** [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qQgZAIfuGNZrRrmOiQIY9wOrpj0y0-5C)
 
 ## Dataset
