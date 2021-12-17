@@ -1,5 +1,7 @@
 # Design Thinking
 
+[![](https://img.shields.io/badge/-Concept-brightgreen)](#)
+
 ## 1. Empathize
 
 <img src="https://github.com/MimismPS/BADS7105-CRM-Analytics/blob/main/Assignment%2008%20-%20Design%20Thinking/Empathize.png" />
