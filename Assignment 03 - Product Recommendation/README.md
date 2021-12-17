@@ -1,8 +1,13 @@
 # Product Recommendation
 
+[![](https://img.shields.io/badge/-Survey-brightgreen)](#) [![](https://img.shields.io/badge/-Market--Basket-brightgreen)](#) [![](https://img.shields.io/badge/-Python-brightgreen)](#) [![](https://img.shields.io/badge/-Google--Colab-brightgreen)](#) 
+
 **Google Colab:** [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QFQuA2mDFKR6zLOxaTcbn1AUQfzFguoM)
 
-<i><ins>Product</ins></i>
+## Dataset 
+"Survey purchasing products"
+
+## Products
 
 โปรแกรมแท้                                
 เครื่องซักผ้า                           
@@ -31,14 +36,16 @@ whey protein
 กระบองเพชรพูดได้                          
 ROV Skin  
 <hr>
-<i><ins>Five Antecedents and Consequents</ins></i>
+
+## Antecedents and Consequents
 <img src="https://github.com/MimismPS/BADS7105-CRM-Analytics/blob/main/Assignment%2003%20-%20Product%20Recommendation/Antecedents%20and%20Consequents.png" />
-<i><ins>Nework Graph</ins></i>
+
+## Nework Graph
 <img src="https://github.com/MimismPS/BADS7105-CRM-Analytics/blob/main/Assignment%2003%20-%20Product%20Recommendation/Network%20Graph.png" />
 <hr>
-<i><ins>Product Recommendation</ins></i>
+
+## Product Recommendation
 
 1. โปรแกรมแท้กับคอร์สเรียนเสริม: ผู้ซื้ออาจเป็นกลุ่มนักศึกษาที่กำลังศึกษาด้าน IT หรือ Digital รือกลุ่มคนทำงานที่ต้องใช้คอมพิวเตอร์เป็นหลักที่ต้องใช้โปรแกรมแท้ ซึ่งควรแนะนำคอร์สเรียนเสริมที่เกี่ยวกับการใช้โปรแกรมต่างๆ ไม่ว่าจะเป็นคอร์สเกี่ยวกับการทำกราฟฟิก หรือการทำ Animation เป็นต้น
 2. โปรแกรมแท้กับเคส Ipad: ผู้ซื้ออาจเป็นกลุ่มนักวาดรูปหรือกลุ่มนักศึกษาที่มีการซื้อโปรแกรมแท้ใน Google store หรือ Apple store เพราะต้องใช้กับเครื่อง Ipad ดังนั้นควรแนะนำให้ซื้อเคส Ipad
 3. ผักอบกรอบกับรองเท้าวิ่ง: ผู้ซื้ออาจเป็นกลุ่มคนรักสุขภาพและชอบทานขนมขบเคี้ยวจึงซื้อผักกรอบมารับประทาน ซึ่งควรแนะนำรองเท้าวิ่งไปด้วย
-
