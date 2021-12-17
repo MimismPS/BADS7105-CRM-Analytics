@@ -40,7 +40,7 @@ ROV Skin
 ## Antecedents and Consequents
 <img src="https://github.com/MimismPS/BADS7105-CRM-Analytics/blob/main/Assignment%2003%20-%20Product%20Recommendation/Antecedents%20and%20Consequents.png" />
 
-## Nework Graph
+## Network Graph
 <img src="https://github.com/MimismPS/BADS7105-CRM-Analytics/blob/main/Assignment%2003%20-%20Product%20Recommendation/Network%20Graph.png" />
 <hr>
 
